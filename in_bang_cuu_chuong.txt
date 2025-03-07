@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 day la bang cuu chuong 2
+=======
+day la bang cuu chuong 3
+>>>>>>> bangcuuchuong3
